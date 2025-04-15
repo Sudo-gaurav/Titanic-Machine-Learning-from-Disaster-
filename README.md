@@ -73,6 +73,16 @@ Upload `submission.csv` to [Kaggle Submission Page](https://www.kaggle.com/compe
 - **Key Predictors**: `Pclass`, `Title`, `FamilySize`, `IsAlone`, `Sex`
 
 ---
+## Files in This Repository
+
+| File Name | Description |
+|-----------|-------------|
+| `Titanic - Machine Learning from Disaster.ipynb` | Main Jupyter notebook with full workflow |
+| `Titanic - Machine Learning from Disaster.html` | Web-rendered version of the notebook for easy viewing |
+| `Titanic - Machine Learning from Disaster.pdf` | Printable/PDF version of the notebook |
+| `submission.csv` | Kaggle-ready submission file generated from model predictions |
+
+---
 
 ## Next Steps
 - Add Random Forest and Gradient Boosting
